@@ -70,6 +70,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CCC',
+    name: 'Shashank Kalyani',
+    email: 'snkalyani2911@gmail.com',
+    image_url: 'https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/1-change1.jpg',
+  },
 ];
 
 const invoices = [
